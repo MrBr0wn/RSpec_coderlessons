@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require 'dog'
+require '8_dog'
 
 describe Dog do
   it 'should be able to create and walk a good boy' do

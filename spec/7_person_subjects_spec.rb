@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require 'person'
+require '7_person'
 
 describe Person do
   it 'create a new person with a first and last name' do

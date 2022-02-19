@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require 'string_analyzer'
+require '2_string_analyzer'
 
 describe StringAnalyzer do
   context 'With valid input' do

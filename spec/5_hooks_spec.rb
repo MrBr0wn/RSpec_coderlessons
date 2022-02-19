@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require 'hooks'
+require '5_hooks'
 
 describe SimpleClass do
   before(:each) do

@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require 'class_room'
+require '4_class_room'
 
 describe ClassRoom do
   it 'the list_student_names method should work correctly' do
